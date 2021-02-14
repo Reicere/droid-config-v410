@@ -1,0 +1,6 @@
+Description: Pattern with packages for v410 configurations
+Name: jolla-configuration-v410
+Requires:
+- patterns-sailfish-device-configuration-v410
+
+Summary: Jolla Configuration v410
